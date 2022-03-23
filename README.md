@@ -1,0 +1,1 @@
+# az-ddd-data-ownership
